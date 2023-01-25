@@ -18,7 +18,7 @@
             
 ### Career Plans {
 
-       ___  The main reason for me wanting to pursue this type of role for my future career would be through the course 
+       ___ 😶‍🌫️ The main reason for me wanting to pursue this type of role for my future career would be through the course 
             Fullstack JavaScript, done at CODESPACE, Ive learnt structure. I started my programming journey at UWC 
             doing C#, app development, which was pretty tough to start out with. I hope to make my own website in the
             near future and continue on to fully understand WEB DEVELOPMENT, especially expanding onto GAME DEVELOPMENT.
