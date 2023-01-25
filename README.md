@@ -1,6 +1,6 @@
 # YOSH ✌️🐒.
 <br>
-##  _____ ABOUT ME _____
+____ ABOUT ME ____
 
 ### Career and What I am doing {
 
