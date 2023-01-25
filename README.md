@@ -2,6 +2,7 @@
 <br>
 ## _____ ABOUT ME _____
 <br>
+
 ### Career and What I am doing {
 
        I am Nuhr Van Der Schyff, a recent graduate from CodeSpace Academy_;
