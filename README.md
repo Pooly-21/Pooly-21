@@ -18,7 +18,7 @@ ____ ABOUT ME ____
 
        ___ 😶‍🌫️ The main reason for me wanting to pursue this type of role for my future career would be through the course_;
             Fullstack JavaScript, done at CODESPACE, Ive learnt structure. I hope to make my own website in the_;
-            near future and continue on to fully understand WEB DEVELOPMENT, especially expanding onto GAME DEVELOPMENT.
+            near future, continue on to fully understand WEB DEVELOPMENT as a whole and especially expanding onto GAME DEVELOPMENT.
        }
                  
 ### How to reach me {
